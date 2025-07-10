@@ -7,14 +7,7 @@
 
 ### 1. Установка и запуск
 
-Клонируем данный репозиторий командной:
+Для начала работы с сервисом скачаем его с открытого git-репозитория. 
 
-git clone https://github.com/Coilnumber/salaries-and-promotions.git
-
-переходим в директорию проекта
-
-cd 'Salaries and promotions'
-
-Запускаем сервер командой
-
-uvicorn main:app --reload   
+```bash
+git clone https://github.com/Coilnumber/salaries-and-promotions

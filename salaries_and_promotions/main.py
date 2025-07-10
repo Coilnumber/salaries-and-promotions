@@ -8,8 +8,8 @@ app = FastAPI()
 app.include_router(jwt_router)
 
 @app.get('/')
-def hello():
-    return {'message': 'Hello, World!'}
+def index():
+    return {'message': 'Hello, CFT_Shift!'}
 
 
 
