@@ -2,3 +2,6 @@
 # Виртуальное окружение
 fastApivenv/
 
+
+# Приватный и публичный ключи
+salaries_and_promotions/auth/certs
